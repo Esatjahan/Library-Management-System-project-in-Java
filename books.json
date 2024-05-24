@@ -1,0 +1,33 @@
+[
+  {
+    "id": "23",
+    "title": "Doremon",
+    "author": "Muniruzzaman",
+    "publishYear": "2021",
+    "status": "Available"
+  },
+  {
+    "id": "12",
+    "title": "Pokemon",
+    "author": "Bony",
+    "publishYear": "2001",
+    "status": "Not Available",
+    "user": {
+      "name": "Akhi",
+      "password": ""
+    },
+    "borrowedDateTime": "2024-05-25T01:51:52.653106100"
+  },
+  {
+    "id": "1",
+    "title": "ABC",
+    "author": "Bony",
+    "publishYear": "2022",
+    "status": "Not Available",
+    "user": {
+      "name": "Jhon",
+      "password": ""
+    },
+    "borrowedDateTime": "2024-05-25T02:14:30.475778600"
+  }
+]
